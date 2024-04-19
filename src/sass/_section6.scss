@@ -132,6 +132,11 @@ margin-bottom: 5px;
     margin-bottom: 22px;
 }
 
+.sct6-hr {
+    margin: 25px;
+    color: var(--reviews-border);
+}
+
 .anchor-card {
     text-decoration: none;
     font-family: var(--common-font);
@@ -250,6 +255,7 @@ margin-bottom: 5px;
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100%;
 }
 
 #harta {
@@ -289,7 +295,7 @@ margin-bottom: 5px;
 }
 
 .modal-form-container {
-    width: 90%;
+    width: 85%;
 }
 
 .sct6-modal-lbl-txt {
